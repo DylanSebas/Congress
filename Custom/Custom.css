@@ -1,0 +1,22 @@
+
+body{
+    font-family: 'Lobster', cursive;
+}
+.lupaNav{
+    width: 5vh;
+    height: 5vh; 
+}
+#lupaMain{
+    width: 50vh;
+    height: 50vh;
+}
+.correo{
+    width: 4vh;
+    height: 4vh;
+}
+.none{
+    display: none;
+}
+table{
+    font-family:cursive;
+}
